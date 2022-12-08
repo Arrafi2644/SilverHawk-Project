@@ -322,7 +322,7 @@ transform: translateY(150%);
     margin-top: 40px;
 }
 
-/* Gallery Start  */
+/* Gallery Start here  */
 
 .gallery-section{
     padding: 80px 0;
@@ -429,7 +429,7 @@ transform: translateY(150%);
     color: #173a69;   
 }
 
-/* footer-banner section  */
+/* contact section start here */
 .contact-banner{
     background-color: #173a69;
     color: white;
@@ -445,7 +445,7 @@ transform: translateY(150%);
     transition: all 0.4s;
 }
 .contact-banner p span a:hover{
-    color: #1f58a3;
+    color: #a3c9fb;
 }
 
 
@@ -505,7 +505,7 @@ border-radius: 50%;
 
 
 
-/* footer section  */
+/* footer section here */
 
 .footer-section{
     background-color: black;
