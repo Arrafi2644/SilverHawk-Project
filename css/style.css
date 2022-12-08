@@ -471,6 +471,7 @@ transform: translateY(150%);
         border: 3px solid #7f7f7f;
         border-radius: 50%;
         margin: 0 15px;
+	    transition:all 0.4s;
     }
 
     .contact-social-section .contact-social-links a {
